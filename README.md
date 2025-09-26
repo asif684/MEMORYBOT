@@ -3,7 +3,9 @@
 A memory-enhanced chatbot leveraging **Retrieval-Augmented Generation (RAG)** and persistent vector memory using **FAISS**. This chatbot integrates **Euriai API** for embeddings and chat completions, allowing context-aware and personalized conversations that persist across sessions.
 
 ---
-
+## UI
+![Chatbot Image 1](https://github.com/asif684/MEMORYBOT/blob/5ccea3771acc014f7471f1d5834088d8c3e9fda1/Screenshot%202025-09-26%20151223.png)
+![Chatbot Image 2](https://github.com/asif684/MEMORYBOT/blob/3fef61b8b893cf60623d30e43bb32f925d25210d/Screenshot%202025-09-26%20151325.png)
 ## Features
 
 - **RAG (Retrieval-Augmented Generation):** Retrieves relevant past memories to improve response quality.
