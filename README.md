@@ -49,5 +49,3 @@ USER_IDENTITY="Your Name or Profile Info"
 streamlit run app.py
 ```
 
-## UI
-![Chatbot Image 1](https://github.com/asif684/MEMORYBOT/blob/5ccea3771acc014f7471f1d5834088d8c3e9fda1/Screenshot%202025-09-26%20151223.png)
