@@ -46,3 +46,7 @@ USER_IDENTITY="Your Name or Profile Info"
 ```bash
 streamlit run app.py
 ```
+
+## UI
+![Chatbot Image 1]("C:\Users\moham\OneDrive\Pictures\Screenshots\Screenshot 2025-09-26 151229.png")
+![Chatbot Image 2]("C:\Users\moham\OneDrive\Pictures\Screenshots\Screenshot 2025-09-26 151325.png")
