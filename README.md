@@ -48,5 +48,4 @@ streamlit run app.py
 ```
 
 ## UI
-![Chatbot Image 1]("C:\Users\moham\OneDrive\Pictures\Screenshots\Screenshot 2025-09-26 151229.png")
-![Chatbot Image 2]("C:\Users\moham\OneDrive\Pictures\Screenshots\Screenshot 2025-09-26 151325.png")
+![Chatbot Image 1](https://github.com/asif684/MEMORYBOT/blob/5ccea3771acc014f7471f1d5834088d8c3e9fda1/Screenshot%202025-09-26%20151223.png)
